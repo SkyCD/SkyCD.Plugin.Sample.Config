@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "publisher": "SkyCD",
+  "feed": "https://raw.githubusercontent.com/SkyCD/SkyCD.Plugin.Sample.Config/main/feed/index.json",
+  "packages": [
+    {
+      "projectUrl": "https://github.com/SkyCD/SkyCD.Plugin.Sample.Config",
+      "id": "SkyCD.Plugin.Sample.Config",
+      "displayName": "Sample Configuration",
+      "releases": [
+        {
+          "version": "1.0.0",
+          "minHostVersion": "3.0.0"
+        }
+      ],
+      "license": "BSD-2-Clause",
+      "summary": "Demonstrates an embedded configuration page with session-local drafts in SkyCD Options."
+    }
+  ],
+  "projectUrl": "https://github.com/SkyCD/SkyCD.Plugin.Sample.Config"
+}
